@@ -8,8 +8,8 @@
 
 MEIOS DE CONTATO:
 
-[![Email](https://img.shields.io/badge/Email-seuemail@example.com-red?style=flat-square&logo=gmail)](andre.nmota@sempreceub.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-neiva-mota-175b4635b/))
+[![Email](https://img.shields.io/badge/Email-andre.nmota@sempreceub.com-red?style=flat-square&logo=gmail)](andre.nmota@sempreceub.com)
+[![LinkedIn](https://img.shields.io/badge/[https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-neiva-mota-175b4635b/)-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-neiva-mota-175b4635b/))
 
 
 ![](https://media.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
