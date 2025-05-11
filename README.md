@@ -1,12 +1,13 @@
-## 👋- Hi there / Olá 
-🏫 - I am on my first semester of university. / Estou no meu primeiro semestre da universidade.
+# 👋- Hi there / Olá 
+🏫 - Studying at CEUB. / Estudando no CEUB.
+
+📚 - I am on my first semester of university. / Estou no meu primeiro semestre da universidade.
 
 🐍 - Learning Python. / Aprendendo Python.
 
+## CURRICULUM
 
-
-
-
+[![](https://img.shields.io/badge/Currículo-curriculum-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1PA1ORqwAdpi_vjFFFxS9bnQARpbFjULj7I7wM_Ys_D0/edit?usp=sharing)
 
 
 ## MEIOS DE CONTATO / CONTACT METHODS:
