@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋- Hi there / Olá 
+🏫 - I am on my first semester of university. / Estou no meu primeiro semestre da universidade.
+
+🐍 - Learning Python. / Aprendendo Python.
 
 
 
@@ -6,11 +9,14 @@
 
 
 
-MEIOS DE CONTATO:
+## MEIOS DE CONTATO / CONTACT METHODS:
 
 [![Email](https://img.shields.io/badge/Email-andre.nmota@sempreceub.com-red?style=flat-square&logo=gmail)](mailto:andre.nmota@sempreceub.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andré-luís-neiva-mota-175b4635b/)
 
+
+## 
 ![](https://media.tenor.com/TCEyVCo9wG0AAAAC/dark-souls-bonfire.gif)
 
 
