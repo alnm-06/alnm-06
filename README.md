@@ -5,11 +5,6 @@
 
 🐍 - Learning Python. / Aprendendo Python.
 
-## CURRICULUM
-
-[![](https://img.shields.io/badge/Currículo-curriculum-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1PA1ORqwAdpi_vjFFFxS9bnQARpbFjULj7I7wM_Ys_D0/edit?usp=sharing)
-
-
 ## MEIOS DE CONTATO / CONTACT METHODS:
 
 [![Email](https://img.shields.io/badge/Email-andre.nmota@sempreceub.com-red?style=flat-square&logo=gmail)](mailto:andre.nmota@sempreceub.com)
